@@ -55,3 +55,5 @@ This repository accompanies the M.Sc. Artificial Intelligence thesis:
 ## Code Availability
 
 The code and experimental implementations developed for this research are provided in this repository for transparency and reproducibility. The underlying policy documents and expert coded dataset are not publicly distributed due to confidentiality restrictions associated with the research collaboration.
+
+The access to the fine tuned models and their checkpoints is provided here in the drive link : (https://drive.google.com/drive/folders/1E9fF1dMfAj9m22zxjVYxz0F-YN6kOmtG?usp=sharing). 
